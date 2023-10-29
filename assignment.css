@@ -1,0 +1,18 @@
+body {
+    margin-left: 150px;
+    margin-right: 150px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.time {
+    margin-left: -60px;
+}
+
+.font, .font2 {
+    font-family: serif;
+}
+
+.font2 {
+    font-size:small;
+    color: grey;
+}
